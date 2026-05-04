@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">UserSettingsApp</string>
+    <string name="settings_dashboard_title">Student Portal Settings</string>
+    <string name="logo_content_description">University logo</string>
+    <string name="hint_student_name">Student Name</string>
+    <string name="label_theme">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system_default">System Default</string>
+    <string name="label_enable_notifications">Enable Notifications</string>
+    <string name="label_language">Language</string>
+    <string name="default_font_size">Font Size: 16sp</string>
+    <string name="font_size_format">Font Size: %1$dsp</string>
+    <string name="btn_save_settings">Save Settings</string>
+    <string name="btn_reset_to_default">Reset to Default</string>
+    <string name="btn_view_saved_settings">View Saved Settings</string>
+    <string name="fab_open_profile">Open profile setup</string>
+
+    <string name="toast_settings_saved">Settings saved successfully.</string>
+    <string name="toast_reset_done">Settings reset to defaults.</string>
+
+    <string name="no_saved_data">No settings saved. Go back and save your preferences.</string>
+    <string name="label_notifications">Notifications</string>
+    <string name="label_font_size">Font Size</string>
+    <string name="label_student_name">Student Name</string>
+    <string name="label_student_id">Student ID</string>
+    <string name="label_department">Department</string>
+    <string name="label_year">Year</string>
+    <string name="label_email">Email</string>
+    <string name="last_saved_format">Last Saved: %1$s</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_edit">Edit</string>
+
+    <string name="welcome_banner_default">Welcome back, Student!</string>
+    <string name="welcome_banner_format">Welcome back, %1$s!</string>
+    <string name="default_student_name">Student</string>
+    <string name="avatar_content_description">Student profile avatar</string>
+    <string name="hint_student_id">Student ID</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_save_profile">Save Profile</string>
+    <string name="toast_profile_saved">Profile saved successfully.</string>
+
+    <string-array name="languages_array">
+        <item>English</item>
+        <item>Bangla</item>
+        <item>Arabic</item>
+        <item>French</item>
+    </string-array>
+
+    <string-array name="departments_array">
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>BBA</item>
+        <item>English</item>
+        <item>Law</item>
+    </string-array>
+
+    <string-array name="years_array">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+    </string-array>
+</resources>
