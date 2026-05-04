@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">StudentAuthApp</string>
+    <string name="splash_title">Student Portal</string>
+    <string name="splash_subtitle">University Authentication System</string>
+    <string name="register_title">Create Account</string>
+    <string name="login_title">Welcome Back!</string>
+    <string name="forgot_password_title">Reset Password</string>
+    <string name="home_title">Student Portal</string>
+
+    <string name="join_portal">Join the Student Portal</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="full_name_hint">Enter your full name</string>
+    <string name="email_address_label">Email Address</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint_min_8">Minimum 8 characters</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="confirm_password_hint">Re-enter your password</string>
+    <string name="create_account_button">CREATE ACCOUNT</string>
+    <string name="already_have_account_login">Already have an account? Login</string>
+    <string name="sign_in_to_account">Sign in to your account</string>
+    <string name="password_hint_login">Enter your password</string>
+    <string name="forgot_password_link">Forgot Password?</string>
+    <string name="login_button">LOGIN</string>
+    <string name="dont_have_account_register">Don\'t have an account? Register</string>
+    <string name="forgot_password_header">Forgot Your Password?</string>
+    <string name="forgot_password_description">Enter your registered email and we will send you a password reset link.</string>
+    <string name="send_reset_email_button">SEND RESET EMAIL</string>
+    <string name="you_are_logged_in">● You are logged in</string>
+    <string name="account_information">Account Information</string>
+    <string name="email_row_label">Email:</string>
+    <string name="uid_row_label">User ID:</string>
+    <string name="member_since_label">Member Since:</string>
+    <string name="logout_button">LOGOUT</string>
+    <string name="change_password_title">Change Password</string>
+    <string name="new_password_label">New Password</string>
+    <string name="confirm_new_password_label">Confirm New Password</string>
+    <string name="confirm_new_password_hint">Re-enter new password</string>
+    <string name="update_password_button">UPDATE PASSWORD</string>
+    <string name="delete_account_button">DELETE MY ACCOUNT</string>
+    <string name="default_no_email">No email</string>
+    <string name="default_avatar_initial">S</string>
+    <string name="app_logo_desc">Application logo</string>
+    <string name="email_icon_desc">Email icon</string>
+</resources>
