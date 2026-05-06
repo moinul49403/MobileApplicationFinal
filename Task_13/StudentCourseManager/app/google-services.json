@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "907160796378",
+    "firebase_url": "https://studentcoursemanager-default-rtdb.firebaseio.com",
+    "project_id": "studentcoursemanager",
+    "storage_bucket": "studentcoursemanager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907160796378:android:9a9bd57845b4c0e218f9e3",
+        "android_client_info": {
+          "package_name": "com.university.studentcoursemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE-h9D5yhJTMqLCxtzO_Y4RZ8Aa0PBNYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

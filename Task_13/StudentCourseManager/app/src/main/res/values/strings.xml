@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentCourseManager</string>
+
+    <string name="title_my_courses">My Courses</string>
+    <string name="title_add_course">Add Course</string>
+    <string name="title_edit_course">Edit Course</string>
+    <string name="title_course_detail">Course details</string>
+
+    <string name="search_hint">Search by name or code</string>
+    <string name="empty_courses_title">No courses added yet</string>
+    <string name="empty_courses_message">Tap + to add your first course.</string>
+
+    <string name="hint_course_name">Course name</string>
+    <string name="hint_course_code">CSE301</string>
+    <string name="hint_instructor">Instructor name</string>
+    <string name="hint_schedule">Sun-Tue 10:00 AM</string>
+    <string name="hint_room">Room 301, Building B</string>
+    <string name="label_credit_hours">Credit hours</string>
+    <string name="label_semester">Semester</string>
+
+    <string name="semester_spring_2025">Spring 2025</string>
+    <string name="semester_summer_2025">Summer 2025</string>
+    <string name="semester_fall_2025">Fall 2025</string>
+
+    <string name="action_save_course">Save course</string>
+    <string name="action_update_course">Update course</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete_course">Delete course</string>
+
+    <string name="error_required_field">This field is required</string>
+    <string name="error_generate_course_id">Could not create a new course id. Try again.</string>
+    <string name="error_save_failed">Could not save. Check your connection and Firebase setup.</string>
+
+    <string name="toast_course_added">Course added successfully</string>
+    <string name="toast_course_updated">Course updated successfully</string>
+
+    <string name="dialog_delete_course_title">Delete this course?</string>
+    <string name="dialog_delete_course_message">This course will be removed from your list.</string>
+    <string name="dialog_delete_confirm">Delete</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string name="dialog_delete_course_main_title">Remove this course?</string>
+    <string name="dialog_delete_course_main_message">The course will be deleted from Firebase.</string>
+
+    <string name="label_field_name">Course name</string>
+    <string name="label_field_code">Course code</string>
+    <string name="label_field_instructor">Instructor</string>
+    <string name="label_field_credit_hours">Credit hours</string>
+    <string name="label_field_schedule">Schedule</string>
+    <string name="label_field_room">Room</string>
+    <string name="label_field_semester">Semester</string>
+
+    <string name="content_desc_add_course">Add course</string>
+    <string name="content_desc_edit_course">Edit course</string>
+    <string name="content_desc_delete_course">Delete course</string>
+    <string name="content_desc_empty_courses">No courses illustration</string>
+    <string name="content_desc_edit_from_detail">Edit this course</string>
+
+    <string name="credit_hours_format">%1$d hrs</string>
+    <string name="schedule_line_format">%1$s</string>
+</resources>

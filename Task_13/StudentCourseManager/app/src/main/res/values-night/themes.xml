@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.StudentCourseManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#90CAF9</item>
+        <item name="colorOnPrimary">#0D47A1</item>
+        <item name="colorPrimaryContainer">#1565C0</item>
+        <item name="colorOnPrimaryContainer">#E3F2FD</item>
+        <item name="colorSecondary">#80CBC4</item>
+        <item name="colorOnSecondary">#004D40</item>
+        <item name="android:colorBackground">#121212</item>
+        <item name="colorSurface">#1E1E1E</item>
+        <item name="colorOnSurface">#E6E1E5</item>
+        <item name="android:textColorPrimary">#E6E1E5</item>
+        <item name="android:textColorSecondary">#CAC4D0</item>
+        <item name="android:statusBarColor">#0D0D0D</item>
+        <item name="android:navigationBarColor">#1E1E1E</item>
+    </style>
+</resources>
